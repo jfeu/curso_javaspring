@@ -1,3 +1,2 @@
-# Spring Boot MySQL Example
+# Ejemplo de aplicación Spring Boot con MySQL para Adrformación
 
-You can learn more about my courses [here](http://courses.springframework.guru/courses/) on my site.
